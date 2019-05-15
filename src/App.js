@@ -5,7 +5,7 @@ import styled from 'styled-components'
 //const percs = [15, 25, 35]
 
 function App() {
-  const percs = [45, 55, 65, 75, 85, 95]
+  const percs = [35, 45, 55, 65, 75, 85, 95]
   const imgs = ["01", "02", "03", "04", "05", "06", "07", "08", "09", "10"]
 
   const [pic, setPic] = useState(imgs[0])
