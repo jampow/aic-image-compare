@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/aic-image-compare/static/css/main.34de6062.chunk.css",
-    "main.js": "/aic-image-compare/static/js/main.8d51716c.chunk.js",
-    "main.js.map": "/aic-image-compare/static/js/main.8d51716c.chunk.js.map",
+    "main.js": "/aic-image-compare/static/js/main.d84de9bb.chunk.js",
+    "main.js.map": "/aic-image-compare/static/js/main.d84de9bb.chunk.js.map",
     "runtime~main.js": "/aic-image-compare/static/js/runtime~main.f2c817ca.js",
     "runtime~main.js.map": "/aic-image-compare/static/js/runtime~main.f2c817ca.js.map",
     "static/js/2.c5106997.chunk.js": "/aic-image-compare/static/js/2.c5106997.chunk.js",
     "static/js/2.c5106997.chunk.js.map": "/aic-image-compare/static/js/2.c5106997.chunk.js.map",
     "index.html": "/aic-image-compare/index.html",
-    "precache-manifest.7f2b3f38b076644795144fbc16f594ca.js": "/aic-image-compare/precache-manifest.7f2b3f38b076644795144fbc16f594ca.js",
+    "precache-manifest.4208b6297199d19a383095d60b4dc29e.js": "/aic-image-compare/precache-manifest.4208b6297199d19a383095d60b4dc29e.js",
     "service-worker.js": "/aic-image-compare/service-worker.js",
     "static/css/main.34de6062.chunk.css.map": "/aic-image-compare/static/css/main.34de6062.chunk.css.map"
   }
